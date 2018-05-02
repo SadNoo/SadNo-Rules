@@ -5,3 +5,5 @@
 香港台湾日本视频分组URL：https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Surge.conf
 
 地区分组：https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/region.conf
+
+Quantumult ：https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult.conf
