@@ -11,7 +11,7 @@ Surge 2:
 Surge 3:
 
 
-香港台湾日本视频分组URL：
+香港台湾日本视频分组URL：https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Surge3.conf
 
 地区分组：
 
