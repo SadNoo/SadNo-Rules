@@ -27,6 +27,7 @@ Proxy Group:
   - name: 🎋 bilibili
     type: select
     proxies:
+      - DIRECT
       - Shadowsocks
   - name: ⛱ 日本限定
     type: select
