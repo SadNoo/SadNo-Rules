@@ -16,3 +16,5 @@ Surge 3:
 地区分组：
 
 Quantumult ：https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult.conf
+
+Quantumult X 流媒体规则：https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/QuanXrule
