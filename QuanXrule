@@ -43,7 +43,9 @@ USER-AGENT,PayPal*,PROXY
 DOMAIN-KEYWORD,paypal,PROXY
 DOMAIN-SUFFIX,paypal.com,PROXY
 //bilibi
-
+DOMAIN-SUFFIX,bilibili.com,Bilibili
+DOMAIN-SUFFIX,hdslb.com,Bilibili
+DOMAIN-SUFFIX,hdslb.net,Bilibili
 //Apple
 IP-CIDR,17.0.0.0/8,Apple,no-resolve
 DOMAIN,appleiphonecell.com,Apple
