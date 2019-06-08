@@ -2227,3 +2227,18 @@ IP-CIDR,192.168.0.0/16,DIRECT
 GEOIP,CN,DIRECT
 // Use  PROXY for all others
 FINAL, PROXY
+
+[rewrite_local]
+^http://www\.google\.cn url 302 http://www.google.com
+^http://bbsanalytics\.weiphone\.net url reject
+^http://capi\.douyucdn\.cn/lapi/sign/appapi/ url reject
+^http://www\.inoreader\.com/adv/ url reject
+^http://api\.mobile\.youku\.com/adv/ url reject
+^http://mp\.weixin\.qq\.com/mp/report url reject
+^http://g\.tbcdn\.cn/mtb/ url reject
+^http://wbapp\.mobile\.sina\.cn/interface/win/winad\.php url reject
+^http://wbapp\.mobile\.sina\.cn/interface/f/ttt/v3/freshguidad\.php url reject
+^http://wbapp\.mobile\.sina\.cn/wbapplua/wbpullad\.lua url reject
+^http://sdkapp\.mobile\.sina\.cn/interface/sdk/actionad\.php url reject
+^http://sdkapp\.mobile\.sina\.cn/interface/sdk/sdkad\.php url reject
+^http://u1\.img\.mobile\.sina\.cn/public/files/image/750x120_ url reject
