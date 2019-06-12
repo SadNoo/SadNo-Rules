@@ -41,19 +41,19 @@ https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/quantumul
 ;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.txt, tag=Sample
 
 [server_local]
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=tw
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=tw
 
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=hk
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=hk
 
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=jp
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=jp
 
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=sg
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=sg
 
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=us
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=us
 
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=az
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=az
 
-shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=true, udp-relay=false, tag=tw2
+shadowsocks=example-a.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, fast-open=true, udp-relay=true, tag=tw2
 
 [filter_local]
 
