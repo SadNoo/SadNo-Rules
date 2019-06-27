@@ -1,13 +1,3 @@
 // YouTube Music
 USER-AGENT,*youtubemusic*, YoutubeMusic
 USER-AGENT,YouTubeMusic*, YoutubeMusic
-// TVB Viu
-USER-AGENT,mytv*, HK
-DOMAIN-SUFFIX,mytvsuper.com, HK
-DOMAIN-KEYWORD,nowtv100, HK
-DOMAIN-KEYWORD,rthklive, HK
-DOMAIN-SUFFIX,tvb.com, HK
-USER-AGENT,OTT_iPhone*, HK
-USER-AGENT,Viu*, HK
-DOMAIN-SUFFIX,viu.com, HK
-DOMAIN-SUFFIX,viu.tv, HK
