@@ -1,3 +1,3 @@
 // YouTube Music
-USER-AGENT,*youtubemusic*, YoutubeMusic
-USER-AGENT,YouTubeMusic*, YoutubeMusic
+USER-AGENT,*youtubemusic*, Youtube
+USER-AGENT,YouTubeMusic*, Youtube
