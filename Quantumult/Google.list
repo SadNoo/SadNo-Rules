@@ -1,0 +1,11 @@
+//Google
+//DOMAIN-SUFFIX,fonts.googleapis.com,DIRECT
+//DOMAIN-SUFFIX,fonts.g Google.com,DIRECT
+DOMAIN-SUFFIX,goo.gl, Google,force-remote-dns
+DOMAIN-SUFFIX,ggpht.com, Google,force-remote-dns
+DOMAIN-SUFFIX,google.com, Google,force-remote-dns
+DOMAIN-SUFFIX,googleapis.com, Google,force-remote-dns
+DOMAIN-KEYWORD,gmail, Google,force-remote-dns
+DOMAIN-KEYWORD,google, Google,force-remote-dns
+DOMAIN-KEYWORD,g Google, Google,force-remote-dns
+DOMAIN-SUFFIX,ytimg.com, Google
