@@ -1,0 +1,6 @@
+// Spotify
+DOMAIN-KEYWORD,spotify, Spotify,force-remote-dns
+USER-AGENT,*Spotify*,Spotify
+DOMAIN-SUFFIX,scdn.co, Spotify,force-remote-dns
+DOMAIN-SUFFIX,spoti.fi, Spotify,force-remote-dns
+DOMAIN-SUFFIX,spotify.com, Spotify,force-remote-dns
