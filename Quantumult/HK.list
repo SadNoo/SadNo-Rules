@@ -1,0 +1,37 @@
+// TVB Viu
+USER-AGENT,mytv*, HK
+DOMAIN-SUFFIX,mytvsuper.com, HK
+DOMAIN-KEYWORD,nowtv100, HK
+DOMAIN-KEYWORD,rthklive, HK
+DOMAIN-SUFFIX,tvb.com, HK
+USER-AGENT,OTT_iPhone*, HK
+USER-AGENT,Viu*, HK
+DOMAIN-SUFFIX,viu.com, HK
+DOMAIN-SUFFIX,viu.tv, HK
+// HBO Go
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com, HK
+DOMAIN-SUFFIX,hboasia.com, HK
+DOMAIN-SUFFIX,hbogoasia.hk, HK
+// Fox+
+USER-AGENT,FOX%20NOW*, HK
+USER-AGENT,FOXPlus*, HK
+DOMAIN-KEYWORD,foxplus, HK
+DOMAIN-SUFFIX,config.fox.com, HK
+DOMAIN-SUFFIX,emome.net, HK
+DOMAIN-SUFFIX,fox.com, HK
+DOMAIN-SUFFIX,foxdcg.com, HK
+DOMAIN-SUFFIX,foxnow.com, HK
+DOMAIN-SUFFIX,foxplus.com, HK
+DOMAIN-SUFFIX,foxplay.com, HK
+DOMAIN-SUFFIX,ipinfo.io, HK
+DOMAIN-SUFFIX,mstage.io, HK
+DOMAIN-SUFFIX,now.com, HK
+DOMAIN-SUFFIX,theplatform.com, HK
+DOMAIN-SUFFIX,urlload.net, HK
+// Amazon Prime Video
+USER-AGENT,InstantVideo.US*, HK
+USER-AGENT,Prime%20Video*, HK
+DOMAIN-SUFFIX,aiv-cdn.net, HK
+DOMAIN-SUFFIX,amazonaws.com, HK
+DOMAIN-SUFFIX,amazonvideo.com, HK
+DOMAIN-SUFFIX,llnwd.net, HK
