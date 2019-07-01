@@ -1,0 +1,14 @@
+    
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Apple.list, tag=Apple, force-policy=Apple
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Netflix.list, tag=Netflix, force-policy=Netflix
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Youtube.list, tag=Youtube, force-policy=Youtube
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Bilibili.list, tag=Bilibili, force-policy=Bilibili
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Google.list, tag=Google, force-policy=Google
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Spotify.list, tag=Spotify.list, force-policy=Spotify
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/TW.list, tag=TW, force-policy=TW
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/HK.list, tag=HK, force-policy=HK
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/JP.list, tag=JP, force-policy=JP
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/DIRECT.list, tag=DIRECT, force-policy=DIRECT
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/REJECT.list, tag=REJECT, force-policy=REJECT
+https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/PROXY.list, tag=PROXY, force-policy=PROXY
+;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.txt, tag=Sample
