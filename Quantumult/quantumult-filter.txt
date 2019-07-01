@@ -1,4 +1,3 @@
-[filter_remote]
 https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Apple.list, tag=Apple, force-policy=Apple
 https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Netflix.list, tag=Netflix, force-policy=Netflix
 https://raw.githubusercontent.com/SadNoo/SadNo-Rules/master/Quantumult/Youtube.list, tag=Youtube, force-policy=Youtube
